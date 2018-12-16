@@ -1,0 +1,1 @@
+<xml><ToUserName><![CDATA[oBKkp04EfaM7I58C_PN1qSRQQhh8]]></ToUserName><FromUserName><![CDATA[gh_2227d59cb9af]]></FromUserName><CreateTime>1521125504</CreateTime><MsgType><![CDATA[image]]></MsgType><Image><MediaId><![CDATA[pPMXYWfi1RaGhdrEt-uEOTq1MueFgKAWjRmOEpkEo22rdiFTtO2tMhg2pmKVRuie]]></MediaId></Image></xml>
